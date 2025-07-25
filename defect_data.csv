@@ -1,1 +1,6 @@
-
+tanggal,kategori_defect,komponen,deskripsi
+2025-07-25,Leakage,Hose,Kebocoran oli di hose utama
+2025-07-25,Crack,Arm,Rangka arm retak
+2025-07-25,Wear,Bucket,Gigi bucket aus
+2025-07-26,Leakage,Cylinder,Seal bocor
+2025-07-26,Crack,Frame,Penyok akibat benturan
